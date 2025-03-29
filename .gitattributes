@@ -1,3 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-Brazillian_ECommerce_Data/*.csv filter=lfs diff=lfs merge=lfs -text
-Brazillian_Ecommerce_data/*.csv filter=lfs diff=lfs merge=lfs -text
